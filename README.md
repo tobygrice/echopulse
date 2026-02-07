@@ -9,7 +9,7 @@ My team's project was **EchoPulse**, an on-device conversational AI designed to 
 
 It is intended to **simulate the role of an emergency services operator** in remote environments, providing step-by-step voice guidance for medical emergencies such as CPR, snake bites, and heat stroke.
 
-This repository contains some of the submission files for the project, including marketing materials and presentation documents. A recording of the initial pitch is hosted [here](https://www.dropbox.com/scl/fi/bqxowo352b2bi7ghwqw51/echopulse_initial_pitch.mp4?rlkey=4t6t9b164rjh9b6zeh6hpewo7&st=z9kpcu5v&dl=0).
+This repository contains some of the submission files for the project, including marketing materials and presentation documents. A recording of the initial pitch is hosted [here](https://www.dropbox.com/scl/fi/bqxowo352b2bi7ghwqw51/echopulse_initial_pitch.mp4?rlkey=4t6t9b164rjh9b6zeh6hpewo7&st=z9kpcu5v&dl=0), and the final pitch presentation (with prototype demonstration video) is hosted [here](https://www.canva.com/design/DAGn8mNsfZQ/yjrBhuGzVF8UMbwuiT61fg/edit).
 
 ## Team
 - **Tobias Grice** — Design & Development Lead  

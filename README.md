@@ -11,6 +11,8 @@ It is intended to **simulate the role of an emergency services operator** in rem
 
 This repository contains some of the submission files for the project, including marketing materials and presentation documents. A recording of the initial pitch is hosted [here](https://www.dropbox.com/scl/fi/bqxowo352b2bi7ghwqw51/echopulse_initial_pitch.mp4?rlkey=4t6t9b164rjh9b6zeh6hpewo7&st=z9kpcu5v&dl=0), and the final pitch presentation (with prototype demonstration video) is hosted [here](https://www.canva.com/design/DAGn8mNsfZQ/yjrBhuGzVF8UMbwuiT61fg/edit).
 
+Our product made it to the final round, placing us in the top 10 of over 60 teams.
+
 ## Team
 - **Tobias Grice** — Design & Development Lead  
     Product and system design, graphic design, mock-up and prototype development
